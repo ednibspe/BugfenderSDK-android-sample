@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "970644021179",
+    "firebase_url": "https://com-bugfender-sample.firebaseio.com",
+    "project_id": "com-bugfender-sample",
+    "storage_bucket": "com-bugfender-sample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970644021179:android:0fbbd1d956bf88ae",
+        "android_client_info": {
+          "package_name": "com.bugfender.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970644021179-c5hckem0rb36iglfmt0er8pnb29s05sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRjpNdWcsfMJSpv3DF3KifLrHLRG2cj_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970644021179-c5hckem0rb36iglfmt0er8pnb29s05sa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
