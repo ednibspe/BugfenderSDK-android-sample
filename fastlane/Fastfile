@@ -15,10 +15,10 @@ default_platform :android
 # info which you can add here later
 lane :beta do
   # build the release variant
-  #build_android_app(task: "assembleRelease",
-#	gradle_path: "/var/lib/jenkins/gradle/gradle-5.2.1/bin/gradle",
-#	print_command_output: "true"
-#  )
+  build_android_app(task: "assembleRelease",
+	gradle_path: "/var/lib/jenkins/gradle/gradle-5.2.1/bin/gradle",
+	print_command_output: "true"
+  )
 
   # upload to Beta by Crashlytics
   crashlytics(
